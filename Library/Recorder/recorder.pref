@@ -37,7 +37,7 @@ MonoBehaviour:
   m_Name: Movie
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 3
+  take: 6
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -45,7 +45,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: H:\
-    m_FileName: demo
+    m_FileName: demo-3
   m_Version: 1
   encoderSettings:
     rid: 2984277417108439040
@@ -57,7 +57,7 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 0
+        imageHeight: 1440
         maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1
